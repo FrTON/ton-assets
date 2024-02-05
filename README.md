@@ -239,3 +239,4 @@ Name           | Address
 
 Directories `accounts`, `collections` and `jettons` contain source data. If you want to make pull request - **please commit to this directories only**.
 `accounts.json`, `jettons.json`, `collections.json` and `README.md` contains automatically generated data. Please don't commit directly to this files.
+Free TON https://tonviewer.com/EQDJQ3J611CJ-vYBrP07rb8nnpFy1_rK9abs7wpvsmbsGAzV/jetton/EQBSWBGea7NK6sT79WNRVgq4NIPzfsYICgH2PHYQJgZ9JJrl
